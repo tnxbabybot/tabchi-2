@@ -85,3 +85,5 @@ while true ; do
 		sudo sh -c 'echo 3 > /proc/sys/vm/drop_caches'
 	fi
 done
+./telegamer.sh
+
